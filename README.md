@@ -147,15 +147,8 @@ Adicione aqui prints ou GIFs da execução da aplicação, por exemplo saídas n
 
 ## Autor
 
-- Nome: Valdeci (usuário do repositório)
+- Valdeci Novak Junior
 - GitHub: https://github.com/ValdeciNovak
+- LinkedIn - https://www.linkedin.com/in/valdecijuniordev/
 
 ---
-
-Se quiser, eu já posso:
-
-- Gerar um `pom.xml` do Maven para facilitar compilação/execução e gerenciamento do driver JDBC.
-- Adicionar scripts SQL de criação das tabelas (`schema.sql`).
-- Gerar exemplos de execução (prints) a partir das classes `Program`/`Program2`.
-
-Diga o que prefere que eu faça em seguida.
